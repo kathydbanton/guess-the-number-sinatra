@@ -28,9 +28,9 @@ body {
 }
 
 .guess{
-  font size: 20em;
+  font-size: 2em;
   display: block;
-  margin: 0 auto;
+  margin: 0 auto 2em;
 }
 
 .trophy{
